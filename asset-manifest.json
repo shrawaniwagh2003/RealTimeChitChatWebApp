@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RealTimeChitChatWebApp/static/css/main.a92824f8.css",
+    "main.js": "/RealTimeChitChatWebApp/static/js/main.daafa32d.js",
+    "index.html": "/RealTimeChitChatWebApp/index.html",
+    "main.a92824f8.css.map": "/RealTimeChitChatWebApp/static/css/main.a92824f8.css.map",
+    "main.daafa32d.js.map": "/RealTimeChitChatWebApp/static/js/main.daafa32d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92824f8.css",
+    "static/js/main.daafa32d.js"
+  ]
+}
